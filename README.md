@@ -18,3 +18,7 @@ Sensitive data like ```TWILIO_ACCOUNT_SID```, ```TWILIO_AUTH_TOKEN```, ```from_`
 **Step-3**\
 After installing all dependencies and setting up all variables you can run the script \
 ```python3.6 product_price_tracker.py```
+
+You can see the script working in below video.
+
+[![Youtube Video](http://img.youtube.com/vi/XA4tWk10i14/0.jpg)](http://www.youtube.com/watch?v=XA4tWk10i14)
